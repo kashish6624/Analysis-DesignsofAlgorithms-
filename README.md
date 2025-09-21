@@ -7,7 +7,8 @@ This repository contains my implementations of various algorithms and problem-so
 ### Divide and Conquer  
 - Merge Sort  
 - Quick Sort  
-- Selection Sort  
+- Selection Sort
+- Min Max  
 
 ### Greedy Algorithms  
 - Activity Selection   
